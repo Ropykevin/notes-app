@@ -1,0 +1,29 @@
+/* signup-styles.css */
+
+/* Center align the form */
+form {
+    text-align: center;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+/* Style the form labels */
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+/* Style the form inputs */
+.form-control {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Style the submit button */
+.btn-primary {
+    display: block;
+    margin: 0 auto;
+}

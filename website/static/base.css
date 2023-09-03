@@ -1,0 +1,27 @@
+/* styles.css */
+
+/* Style the navigation bar */
+.navbar {
+    background-color: #333;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+
+/* Style the alerts (success and error messages) */
+.alert {
+    margin-top: 20px;
+}
+
+/* Style the container content */
+.container {
+    margin-top: 20px;
+}
+
+/* Style the "Delete" button */
+.close {
+    color: red;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
